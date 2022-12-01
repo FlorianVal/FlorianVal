@@ -11,7 +11,7 @@
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <br />
-<a margin="10" href="https://pytorch.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="html"></a>
+<a margin="10" href="https://pytorch.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="html"></a>
 <br />
 </div>
 
