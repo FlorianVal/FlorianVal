@@ -14,6 +14,7 @@
 <a margin="10" href="https://pytorch.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="html"></a>
 <a margin="10" href="http://tensorflow.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="html"></a>
 <a margin="10" href="https://python.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="html"></a>
+<a margin="10" href="https://swift.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="html"></a>
 <br />
 </div>
 <br />
