@@ -21,7 +21,7 @@
 
 
 - 🌈 I’m currently learning : Stable diffusion for generation 
-- 💬 Ask me about : **Deep Learning**
+- 💬 Let's talk about **Deep Learning** !
 - 🕸️ My website : https://fvalade.fr
 - 🧠 Also interested in : **Home Automation**, **Self-Hosting**, **Game development** and **IOS development**
 
