@@ -24,4 +24,11 @@
 - 🕸️ My website : https://fvalade.fr
 - 🧠 Also interested in : **Home Automation**, **Self-Hosting**, **Game development** and **IOS development**
 
+🔍 You'll find a variety of projects on my GitHub, each showcasing my skills and abilities as a developer. I hope you find something that interests you!
+
+💬 If you have any questions or want to collaborate on a project, feel free to reach out to me. I'm always happy to connect with other developers and enthusiasts in the tech community.
+
+🌟 Thanks for visiting my GitHub!
+
+
 
