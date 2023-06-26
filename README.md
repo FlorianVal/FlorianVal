@@ -3,7 +3,7 @@
 
 
 
-<center>I specialize in computer vision and deep learning. I am currently a PhD student at the Gustave Eiffel University in France.
+<center>I specialize in computer vision and deep learning. I am currently a PhD student at Gustave Eiffel University in France.
 </center>
 
 <div align="center">
