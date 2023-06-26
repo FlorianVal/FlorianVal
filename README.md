@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Florian VALADE </h1>
-<h3 align="center">A passionate PhD Student in artificial intelligence</h3>
+<h3 align="center">A PhD Student in artificial intelligence</h3>
 
 
 
