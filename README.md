@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Florian VALADE </h1>
+<h1 align="center">Hi there 👋 I'm Florian </h1>
 <h3 align="center">A PhD Student in artificial intelligence</h3>
 
 
