@@ -10,18 +10,12 @@
 
 <br />
 <!-- Social icons -->
-<a href="https://github.com/FlorianVal" target="_blank" aria-label="github" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 10px;" />
-</a>
-<a href="https://www.linkedin.com/in/florian-valade/" target="_blank" aria-label="linkedin" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
-</a>
-<a href="https://twitter.com/FloValade" target="_blank" aria-label="twitter" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" style="margin: 0 10px;" />
-</a>
-<a href="https://huggingface.co/valcore" target="_blank" aria-label="huggingface" rel="noopener noreferrer">
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace" width="40" height="40" style="margin: 0 10px; object-fit: contain;" />
-</a>
+
+<a href="https://github.com/FlorianVal" target="_blank" style="margin: 10px"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="html"></a>
+<a href="https://www.linkedin.com/in/florian-valade/" target="_blank" style="margin: 10px"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="html"></a>
+<a href="https://twitter.com/FloValade" target="_blank" style="margin: 10px"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="html"></a>
+<a href="https://huggingface.co/valcore" target="_blank" style="margin: 10px"><img height="40" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="html"></a>
+
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
